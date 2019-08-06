@@ -1,0 +1,17 @@
+Atalhos Básicos do Terminal
+
+Ctrl+ALT+T = Atalho do para abrir Terminal
+Ctrl+ALT+F1 = Atalho para Terminal fora da Área Gráfica
+Ctrl+ALT+F7 = Volta para o Ambiente Gráfico do Linux Mint
+LS = Listar Diretórios 
+LS - LH = Listar Diretórios com mais Detalhes
+Ctrl+L = Limpa Linhas de comando
+CD / = Andar entre diretorios
+CD - = Volta pro diretório Anterior
+PWD = Mostra aonde você está localizado
+Mkdir = Cria diretórios
+TAB = Completa Comandos
+&& = Se for executado ele executa o segundo comando
+Echo = imprimir da tela
+touch = mudar data e hora do arquivo / criação de arquivos
+head = 
